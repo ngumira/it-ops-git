@@ -21,7 +21,7 @@ Create a temporary directory and change into that directory
   - Come to your local device
   - Clone the repo here
 
-    git clone git@github.com:cypriannde/it-ops-git.git
+  git clone git@github.com:ngumira/it-ops-git.git
 
 # Step 6
 Change into the clone repo
@@ -54,3 +54,17 @@ Do a git status, to ensure that git has a copy of the new file
       output: ~/Documents
       - To delete the tmp dir, we do not need it anymore
       rm -rf tmp
+
+# Class Tasks
+  Go to the end of the documents and add the following information
+  * I did not do my home work.
+  * I have two ways of doing this tasks
+    - I can edit the existing file
+    - I can create a new documents with my own information
+
+
+#1 --> Identify the location
+Inorder to edit a file, I need to know where I am located and also where the file is located
+
+#2 I edited the file, now I have to save it.
+--> where: I will navigate to where i want to save the file in my computer
