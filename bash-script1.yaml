@@ -1,0 +1,64 @@
+# Link 
+# April 28, 2022
+
+# Linux filesystem
+
+# Linux os
+  In order to have a working computer, we need 3 things atleast
+    1. Hardware
+    2. Software
+    3. Kernel --> a software that enables the os software to communicate with the underlyning hardware
+
+    Linux ia a software os && a kernel software
+  --> It is software that can be used to manage other systems hardware & their resources 
+    example --> linux kernel enables android software to communicate with any samsung, or apple or nokie cell phone
+  --> It is an open source operating system
+  --> Does not need a linense to use or resale it, not paid for
+
+
+  # What are the two ways to use the linux os
+    --> GUI __> Graphical user interface
+      ? Why do you open a terminal 
+    --> CLI --> command line interface == shell prompt == terminal
+      One main advantage of the cli --> it provides more functionality, supports script execution:
+
+  # The most important skill to learn is the ability to nagivate the file system
+    There are two ways to navigate the file system
+      - Absolute file path ==> it is the true path that starts from the user home directory ~/
+      - Relative file path ==> it is the path that starts from the current working directory ./
+        . ==> current
+        .. ==> previous
+
+        * GUI --> folder
+        * CLI --> directory
+
+  # Everything in the linux filesystem is files
+    Even the directories are also files
+
+      Linux Directory Structure
+      / == root
+        /bin 
+        /etc
+        /home
+          /user1
+          /user2
+          /user3
+        /opt
+        /data
+        /usr
+        /var
+        /tmp --> temporary files are stored here, && everyone has access to write here
+        /lib --> essential shared libraries && kernel modules are stored
+        /usr/bin --> 
+
+
+Assignment--> What does each directory do in the filesystem 
+          --> Why is it there
+
+          Himt: linux file structure cheat sheet
+          # Make youtr notes
+
+    Q && A:
+      
+
+  
